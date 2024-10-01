@@ -1,4 +1,3 @@
-# **Accessible Preservation**
 ## Developing an inclusive strategy for management and preservation of born-digital assets
 
 #### Many legacy born-digital collections were created with research and access in mind, responding to events ‘of the moment’, using outdated technological standards, or retaining only lower quality access representations, not ideal for longer-term digital preservation. Increasingly, institutional practices in Universities, Libraries, and other Commercial organisations, are shaped by the desire to save space, and to improve shareability in digital workspaces. Institutional moves towards digital submission procedures, e.g. university e-theses, calls only for access copies, and can inadvertently encourage compression, encryption, hyperlinked content, and web-optimisation, as depositors mitigate upload constraints or rights management in the digital environment.  
